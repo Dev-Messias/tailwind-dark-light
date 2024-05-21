@@ -1,8 +1,9 @@
-# React + Vite
+# Sistema de Tema Dark/Light com TailwindCSS e ReactJS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este projeto foi desenvolvido como uma ferramenta de estudo para demonstrar como alternar entre temas claro e escuro utilizando TailwindCSS e ReactJS.
 
-Currently, two official plugins are available:
+<div>
+  <img src="https://github.com/Dev-Messias/tailwind-dark-light/blob/main/src/assets/telapost.png" />
+</div>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
